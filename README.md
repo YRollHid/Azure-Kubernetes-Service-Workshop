@@ -23,7 +23,7 @@ In this [AKS workshop](https://docs.microsoft.com/en-us/learn/modules/aks-worksh
 
 if you receive the following error:
 
-![Azure, Create the AKS cluster issue](assets/images/Annotation_2020-04-25_100457.png)
+![Azure, Create the AKS cluster issue](assets/images/Annotation_2020-04-25_100457.jpg)
 
 you can fix it adding to the <code>az aks create</code> command --service-principal ApplicationID & --client-secret SecretID
 
